@@ -9,8 +9,9 @@ optional_tab_title: ''
 optional_text: ''
 parent_title: Video Lectures
 parent_type: CourseSection
-related_resources_text: "Lecture Notes ([PDF](resources/lec17))  \n[Assignments](pages/assignments)\
-  \  \n[Exams](pages/exams)"
+related_resources_text: "Lecture Notes ([PDF](/courses/6-046j-introduction-to-algorithms-sma-5503-fall-2005/resources/lec17))\
+  \  \n[Assignments](/courses/6-046j-introduction-to-algorithms-sma-5503-fall-2005/pages/assignments)\
+  \  \n[Exams](/courses/6-046j-introduction-to-algorithms-sma-5503-fall-2005/pages/exams)"
 resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 17: Shortest Paths I: Properties, Dijkstra''s Algorithm, Breadth-first
